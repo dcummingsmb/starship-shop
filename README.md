@@ -1,2 +1,2 @@
 # starship-shop
-A single page app testing the Star Wars API
+A single page React app testing the Star Wars API
