@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Starjedi';
+  src: url('../fonts/Starjedi.ttf');
+}
+
+.jedi {
+  font-family: Starjedi;
+}
+
+body {
+  background: black;
+}
+
+.cardSize {
+  width: 500px;
+  height: 250px;
+}
+
+.containerH {
+  display: flex;
+  justify-content: center;
+}
+
+.containerV {
+  display: flex;
+  flex-direction: column;
+}
